@@ -3,6 +3,7 @@ package com.basic;
 public class Point2D 
 {
 	private int x,y;
+	public static String  n = "Hello world";
 	
 	public Point2D(int p , int q)
 	{
