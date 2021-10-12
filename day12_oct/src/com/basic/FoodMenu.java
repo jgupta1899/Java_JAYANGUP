@@ -129,7 +129,7 @@ public class FoodMenu
 				
 				System.out.println("Total Generate Bill : "+(sumd+sums+sumi+sump+sumpi+sumpp+sumb+sumbr+sumf));
 				str = false;
-				
+			
 				
 				break;
 			
